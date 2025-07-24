@@ -1,2 +1,2 @@
-# pdf-header-api
+# pdf-header-worker
 An API to add header to PDF

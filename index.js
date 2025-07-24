@@ -23,7 +23,7 @@ export default {
         page.drawText(headerText, {
           x: 50,
           y: height - 50,
-          size: 10,
+          size: 7,
           font,
           color: rgb(0, 0, 0)
         })

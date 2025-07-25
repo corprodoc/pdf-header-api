@@ -21,7 +21,7 @@ export default {
       for (const page of pages) {
         const { width, height } = page.getSize()
         page.drawText(headerText, {
-          x: 50,
+          x: width - textWidth - 20,
           y: height - 50,
           size: 7,
           font,
